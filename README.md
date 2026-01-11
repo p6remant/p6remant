@@ -1,9 +1,9 @@
 ### Hello, Everyone 👋
 
-- 👦 I am Remanta Paudel Khatri from Kathmandu, Nepal. 
-- 👨‍🎓 I’ve completed my Bachelor of Science in Computer Science and Information Technology.
-- 🔭 I’m working as a **Frontend developer.**
-- 🌱 I’m currently learning mobile app development.
+- 👦 I am **Remanta Paudel Khatri** from Kathmandu, Nepal. 
+- 👨‍🎓 I’ve completed my **Bachelor of Science in Computer Science and Information Technology**.
+- 🔭 I’m currently working as a **Frontend Developer**.
+- 🌱 I’m currently learning **Mobile App Development**.
 - 📫 How to reach me: **paudelremant45@gmail.com**
 
 ---
@@ -35,7 +35,7 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
    </a>
    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
    </a>
    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
@@ -56,10 +56,29 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/remant-paudel-325604270" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="remant paudel" height="25" width="35" />
+<a href="https://www.linkedin.com/in/remant-paudel-325604270" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="25" width="35" />
 </a>
-<a href="https://fb.com/reymant.paudelkhettri" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="remant paudel khatri" height="25" width="35" />
+<a href="https://fb.com/reymant.paudelkhettri" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="25" width="35" />
 </a>
+</p>
+
+---
+
+## 📊 GitHub Activity Overview
+
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=p6remant&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Remanta's GitHub Stats" />
+</p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p6remant&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <!-- Contribution Graph -->
+  <img src="https://github-contributions-api.deno.dev/v1/p6remant?type=calendar" alt="GitHub Contribution Graph" />
 </p>

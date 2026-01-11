@@ -69,16 +69,7 @@
 ## 📊 GitHub Activity Overview
 
 <p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=p6remant&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Remanta's GitHub Stats" />
-</p>
-
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p6remant&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <!-- Contribution Graph -->
-  <img src="https://github-contributions-api.deno.dev/v1/p6remant?type=calendar" alt="GitHub Contribution Graph" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=p6remant&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=p6remant&layout=compact&langs_count=8&theme=radical&hide_border=true" />
+  <img height="180" src="https://github-readme-streak-stats-eight.vercel.app/?user=p6remant&theme=radical&hide_border=true" />
 </p>

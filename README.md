@@ -8,8 +8,8 @@
 
 ---
 
-<h4 align="center">Languages and Tools:</h4>
-<p align="center">
+<h4>Languages and Tools:</h4>
+<p>
    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
    </a>
@@ -68,8 +68,9 @@
 
 ## 📊 GitHub Activity Overview
 
-<p align="center">
+<p>
   <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=p6remant&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" />
   <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=p6remant&layout=compact&langs_count=8&theme=radical&hide_border=true" />
   <img height="180" src="https://github-readme-streak-stats-eight.vercel.app/?user=p6remant&theme=radical&hide_border=true" />
 </p>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=p6remant&theme=radical&hide_border=true&area=true" />
